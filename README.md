@@ -4,7 +4,7 @@
 
 I'm Sosa 💢
 
-<img src="https://skillicons.dev/icons?i=git,html,js,md,nextjs,nodejs&perline=12" />
+<img src="https://skillicons.dev/icons?i=git,html,js,css,nextjs,nodejs&perline=12" />
 <br />
 <img src="https://skillicons.dev/icons?i=discord,discordjs,github,npm,vscode&perline=12" />
 <br />
