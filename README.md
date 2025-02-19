@@ -20,4 +20,4 @@ I'm Sosa 💢
     </table>
 </div>
 
-https://api.lanyard.rest/v1/users/923208452581511199
+[![Discord:](https://lanyard.cnrad.dev/api/923208452581511199)](https://discord.com/users/923208452581511199)
