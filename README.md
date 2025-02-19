@@ -19,3 +19,5 @@ I'm Sosa 💢
         </tr>
     </table>
 </div>
+
+https://api.lanyard.rest/v1/users/923208452581511199
